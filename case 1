@@ -1,0 +1,4 @@
+Saya tidak terlalu mengerti tentang response API tetapi saya mencoba mencari tahu dengan menonton youtube dan membaca website, berikut pemahaman saya setelah mencari tahu:
+
+1. Pastikan sudah ada database member yang menyimpan informasi NIK dan passwordnya
+2. Integrasi layanan API SMS contohnya menggunakan gampsms, WebOTP, 8x8 CPaaS dll
